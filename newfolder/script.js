@@ -1,3 +1,3 @@
-function hell() {
+function helloGitty() {
     alert('Hello from Git');
 }
