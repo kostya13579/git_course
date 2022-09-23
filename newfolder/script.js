@@ -9,3 +9,7 @@ function newHelloGit() {
 function GoodbyeFunction() {
     alert('Goodbye from Git');
 }
+
+function NewGoodbyeFunction() {
+    alert('New goodbye');
+}
