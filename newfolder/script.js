@@ -1,5 +1,9 @@
 function helloGittyx() {
-    alert('Hello from Git');
+    alert('Hello my friend!');
+}
+
+function goodbyeGittyx() {
+    alert('Bye-Bye man!');
 }
 
 function newHelloGit() {
